@@ -39,5 +39,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "@types/webpack-env": "^1.18.4"
+  },
+  "description": "CS:GO Swear Word giver",
+  "main": "App.tsx",
+  "author": "Jaka",
+  "homepage": "."
 }
