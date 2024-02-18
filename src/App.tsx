@@ -20,6 +20,7 @@ import Polish from "./pages/polish.js";
 import Russian from "./pages/russian.js";
 import Slovakian from "./pages/slovakian.js";
 import Slovenian from "./pages/slovenian.js";
+import Useful from "./pages/useful.js";
 
 function App() {
 	const [language, setLanguage] = React.useState("");
@@ -74,6 +75,7 @@ function App() {
 				{language === "russian" && <Russian />}
 				{language === "slovakian" && <Slovakian />}
 				{language === "slovenian" && <Slovenian />}
+        {language === "useful" && <Useful />}
 			</div>
 		</div>
 	);

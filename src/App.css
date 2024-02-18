@@ -36,6 +36,15 @@ p {
   margin: 0 10px;
 }
 
+.selector ul li p {
+  background: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  color: #000;
+  cursor: pointer;
+}
+
 .selector ul li img {
   width: 50px;
   height: 50px;
