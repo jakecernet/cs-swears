@@ -1,6 +1,6 @@
 import React from "react";
 
-function Arabic() {
+const Arabic = () =>{
 	return (
 		<div>
 			<h1>Arabic</h1>

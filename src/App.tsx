@@ -11,16 +11,16 @@ import RussianIMG from "./icons/russian.svg";
 import SlovakianIMG from "./icons/slovakian.svg";
 import SlovenianIMG from "./icons/slovenian.svg";
 
-import Arabic from "./pages/arabic.js";
-import Austrian from "./pages/austrian.js";
-import Czech from "./pages/czech.js";
-import German from "./pages/german.js";
-import Jamaican from "./pages/jamaican.js";
-import Polish from "./pages/polish.js";
-import Russian from "./pages/russian.js";
-import Slovakian from "./pages/slovakian.js";
-import Slovenian from "./pages/slovenian.js";
-import Useful from "./pages/useful.js";
+import Arabic from "./pages/arabic";
+import Austrian from "./pages/austrian";
+import Czech from "./pages/czech";
+import German from "./pages/german";
+import Jamaican from "./pages/jamaican";
+import Polish from "./pages/polish";
+import Russian from "./pages/russian";
+import Slovakian from "./pages/slovakian";
+import Slovenian from "./pages/slovenian";
+import Useful from "./pages/useful";
 
 function App() {
 	const [language, setLanguage] = React.useState("");
