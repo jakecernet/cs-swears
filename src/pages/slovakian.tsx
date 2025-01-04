@@ -7,9 +7,9 @@ function Slovakian() {
 			<ul>
 				<li>Piča - Bitch</li>
 				<li>Kokot - Idiot, dick</li>
-				<li>Choď do piče - F*ck off</li>
+				<li>Choď do piče - Fuck off</li>
 				<li>Do piči - Oh shit</li>
-				<li>Pičovina - P*ssything</li>
+				<li>Pičovina - Pussything</li>
 			</ul>
 		</div>
 	);

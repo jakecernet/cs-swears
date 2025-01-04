@@ -5,17 +5,17 @@ function Czech() {
 		<div>
 			<h1>Czech</h1>
 			<ul>
-				<li>Prdel - A*s</li>
-				<li>Kunda - P*ssy</li>
-				<li>Kurva - Wh*re</li>
-				<li>Hovno - Sh*t</li>
+				<li>Prdel - Ass</li>
+				<li>Kunda - Pussy</li>
+				<li>Kurva - Whore</li>
+				<li>Hovno - Shit</li>
 				<li>Prase - Pig</li>
 				<li>Kretén - Idiot</li>
 				<li>Blbec - Fool</li>
 				<li>Debil - Moron</li>
-				<li>Mrcha - B*tch</li>
+				<li>Mrcha - Bitch</li>
 				<li>Krava - Cow</li>
-				<li>Chcanky - Sl*t</li>
+				<li>Chcanky - Slut</li>
 			</ul>
 		</div>
 	);

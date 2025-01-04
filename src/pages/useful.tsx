@@ -11,7 +11,7 @@ function Useful() {
 				<li>Rush B (dust2) - Smoke tunnel watch lower and push</li>
 				<li>Hacker - Everyone better than you</li>
 				<li>
-					OMG f*ck u AFK, kick this noob - You should play in esea!
+					OMG fuck u AFK, kick this noob - You should play in esea!
 				</li>
 			</ul>
 		</div>

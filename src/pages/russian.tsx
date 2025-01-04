@@ -9,8 +9,8 @@ function Russian() {
 				<li>Hui - Dick</li>
 				<li>Ubludak - Son of a bitch</li>
 				<li>Blyat - Whore</li>
-				<li>Idi na hui - Go f*ck yourself (lit. go on dick)</li>
-				<li>Yebal - F*ck</li>
+				<li>Idi na hui - Go fuck yourself (lit. go on dick)</li>
+				<li>Yebal - Fuck</li>
 			</ul>
 		</div>
 	);
