@@ -12,7 +12,8 @@ function Useful() {
 					OMG fuck u AFK, kick this noob - You should play in esea!
 				</li>
 				<li>
-					дай мне свой ак-47 (Day mny svoy a k syork syem) - Give me AK-47
+					дай мне свой ак-47 (Day mny svoy a k syork syem) - Give me your
+					AK-47
 				</li>
 				<li>
 					Я не понимаю русски (Ya nye panimayu ruski) - I don't
@@ -26,6 +27,7 @@ function Useful() {
 					Отыебис от меныа! (Otyebis ot menya!) - Get the fuck away
 					from me!
 				</li>
+				<li>Allah Akbar - God is great</li>
 			</ul>
 		</div>
 	);

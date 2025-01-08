@@ -59,9 +59,9 @@ function App() {
 						<li onClick={() => setLanguage("slovenian")}>
 							<img src={SlovenianIMG} alt="Slovenian" />
 						</li>
-            <li onClick={() => setLanguage("useful")}>
-              <p>Generaly useful words</p>
-            </li>
+						<li onClick={() => setLanguage("useful")}>
+							<p>Generaly useful words</p>
+						</li>
 					</ul>
 				</div>
 			</div>
@@ -75,7 +75,7 @@ function App() {
 				{language === "russian" && <Russian />}
 				{language === "slovakian" && <Slovakian />}
 				{language === "slovenian" && <Slovenian />}
-        {language === "useful" && <Useful />}
+				{language === "useful" && <Useful />}
 			</div>
 		</div>
 	);

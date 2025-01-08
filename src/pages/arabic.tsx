@@ -3,7 +3,6 @@ const Arabic = () => {
 		<div>
 			<h1>Arabic</h1>
 			<ul>
-				<li>Allah Akbar - God is great</li>
 				<li>Kol khara - Eat shit</li>
 				<li>Allah Yakhthek - May God take your soul</li>
 				<li>Ayreh Feek - Fuck You</li>
