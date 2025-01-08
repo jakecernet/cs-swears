@@ -1,5 +1,3 @@
-import React from "react";
-
 function Useful() {
 	return (
 		<div>
@@ -12,6 +10,21 @@ function Useful() {
 				<li>Hacker - Everyone better than you</li>
 				<li>
 					OMG fuck u AFK, kick this noob - You should play in esea!
+				</li>
+				<li>
+					дай мне свой ак-47 (Day mny svoy a k syork syem) - Give me AK-47
+				</li>
+				<li>
+					Я не понимаю русски (Ya nye panimayu ruski) - I don't
+					understand russian.
+				</li>
+				<li>
+					Tabernach - Holy fuck (you are so shit) (in canadian french)
+				</li>
+				<li>Davai blyat - Let's go man</li>
+				<li>
+					Отыебис от меныа! (Otyebis ot menya!) - Get the fuck away
+					from me!
 				</li>
 			</ul>
 		</div>
